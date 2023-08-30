@@ -1,3 +1,4 @@
+![custom-wordlist](https://github.com/github/docs/assets/143636558/9d4115c8-00fb-404e-bac5-7d7a4166ddbf)
 ---
 title: Managing commit signature verification
 intro: '{% data variables.product.product_name %} will verify GPG{% ifversion ssh-commit-verification %}, SSH,{% endif %} or S/MIME signatures so other people will know that your commits come from a trusted source.{% ifversion fpt %} {% data variables.product.product_name %} will automatically sign commits you make using the {% data variables.product.product_name %} web interface.{% endif %}'
